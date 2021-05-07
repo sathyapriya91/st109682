@@ -18,8 +18,6 @@
 
 ''SCRIPT
 
-''Test cases for phase 1
-
 ''Valid input
 AddUser "dsmith", "password", "Peter", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
 
